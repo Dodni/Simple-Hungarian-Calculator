@@ -1,2 +1,1 @@
 # Simple-Hungarian-Calculator
-anyad
